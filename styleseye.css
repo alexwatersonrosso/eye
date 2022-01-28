@@ -22,8 +22,8 @@ body {
   overflow: hidden;
 }
 .ball {
-  width: 80px;
-  height: 80px;
+  width: 100px;
+  height: 100px;
   background: #000;
   position: absolute;
   top: 50%;
